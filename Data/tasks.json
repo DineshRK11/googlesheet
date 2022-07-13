@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "userName": "dineshk",
+      "taskName": "mongoDb",
+      "taskDetail": "database",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-14",
+      "status": "Pending",
+      "id": 3
+    },
+    {
+      "userName": "dinesh",
+      "taskName": "node",
+      "taskDetail": "node js",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-16",
+      "status": "Ongoing",
+      "id": 5
+    },
+    {
+      "userName": "dinesh",
+      "taskName": "react",
+      "taskDetail": "react",
+      "startDate": "2022-07-07",
+      "endDate": "2022-07-10",
+      "status": "Completed",
+      "id": 7
+    },
+    {
+      "userName": "dinesh",
+      "taskName": "java ",
+      "taskDetail": "java",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-09",
+      "status": "Completed",
+      "id": 8
+    },
+    {
+      "userName": "dineshkl",
+      "taskName": "java script",
+      "taskDetail": "java script",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-15",
+      "status": "Ongoing",
+      "id": 9
+    },
+    {
+      "userName": "dineshkl",
+      "taskName": "java script",
+      "taskDetail": "java script",
+      "startDate": "2022-07-16",
+      "endDate": "2022-07-21",
+      "status": "Pending",
+      "id": 10
+    }
+  ]
+}
